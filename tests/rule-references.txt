@@ -226,6 +226,7 @@ https://blog.jourdant.me/post/3-ways-to-download-files-with-powershell
 https://blog.lexfo.fr/Forensics-xortigate-notice.html
 https://blog.lexfo.fr/xortigate-cve-2023-27997.html
 https://blog.malwarebytes.com/malwarebytes-news/2020/10/kraken-attack-abuses-wer-service/
+https://blog.malwarebytes.com/malwarebytes-news/2021/02/lazyscripter-from-empire-to-double-rat/
 https://blog.malwarebytes.com/threat-analysis/2016/11/telecrypt-the-ransomware-abusing-telegram-api-defeated/
 https://blog.malwarebytes.com/threat-analysis/2020/04/new-agenttesla-variant-steals-wifi-credentials/
 https://blog.malwarebytes.com/threat-intelligence/2021/08/new-variant-of-konni-malware-used-in-campaign-targetting-russia/
@@ -283,6 +284,7 @@ https://blogs.blackberry.com/en/2022/05/dirty-deeds-done-dirt-cheap-russian-rat-
 https://blogs.blackberry.com/en/2022/12/mustang-panda-uses-the-russian-ukrainian-war-to-attack-europe-and-asia-pacific-targets
 https://blogs.blackberry.com/en/2023/06/romcom-resurfaces-targeting-ukraine
 https://blogs.blackberry.com/en/2023/07/romcom-targets-ukraine-nato-membership-talks-at-nato-summit
+https://blogs.blackberry.com/en/2024/07/akira-ransomware-targets-the-latam-airline-industry
 https://blogs.jpcert.or.jp/en/2022/07/yamabot.html
 https://blogs.jpcert.or.jp/en/2023/05/gobrat.html
 https://blogs.juniper.net/en-us/security/freshly-disclosed-vulnerability-cve-2021-20090-exploited-in-the-wild
@@ -491,6 +493,7 @@ https://docs.github.com/en/organizations/keeping-your-organization-secure/managi
 https://docs.github.com/en/organizations/keeping-your-organization-secure/managing-two-factor-authentication-for-your-organization/requiring-two-factor-authentication-in-your-organization
 https://docs.github.com/en/organizations/managing-oauth-access-to-your-organizations-data/disabling-oauth-app-access-restrictions-for-your-organization
 https://docs.github.com/en/organizations/managing-organization-settings/transferring-organization-ownership
+https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
 https://docs.github.com/en/repositories/archiving-a-github-repository/archiving-repositories
 https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-security-and-analysis-settings-for-your-repository
 https://docs.google.com/presentation/d/1dkrldTTlN3La-OjWtkWJBb4hVk6vfsSMBFBERs6R8zA/edit
@@ -711,6 +714,7 @@ https://en.wikipedia.org/wiki/HTML_Application
 https://en.wikipedia.org/wiki/IExpress
 https://en.wikipedia.org/wiki/List_of_Microsoft_Office_filename_extensions
 https://en.wikipedia.org/wiki/Nohup
+https://en.wikipedia.org/wiki/Right-to-left_override
 https://enigma0x3.net/2016/08/15/fileless-uac-bypass-using-eventvwr-exe-and-registry-hijacking/
 https://enigma0x3.net/2016/11/17/bypassing-application-whitelisting-by-using-dnx-exe/
 https://enigma0x3.net/2016/11/21/bypassing-application-whitelisting-by-using-rcsi-exe/
@@ -790,6 +794,7 @@ https://gist.githubusercontent.com/bohops/0cc6586f205f3691e04a1ebf1806aabd/raw/b
 https://gist.githubusercontent.com/MichaelKoczwara/12faba9c061c12b5814b711166de8c2f/raw/e2068486692897b620c25fde1ea258c8218fe3d3/history.txt
 https://git.libssh.org/projects/libssh.git/tree/src/curve25519.c#n420
 https://github.com/00derp/EquationGroupLeak/search?utf8=%E2%9C%93&q=dll_u&type=
+https://github.com/0xBruno/WSUSploit.NET/tree/e239bce9d6b5f46a346e1e4c4d5e0a2a20d5c639
 https://github.com/0xdeadbeefJERKY/PowerSploit/blob/8690399ef70d2cad10213575ac67e8fa90ddf7c3/Persistence/Persistence.psm1
 https://github.com/0xf4n9x/CVE-2022-46169
 https://github.com/0xorOne/nuclei-templates/blob/2fef4270ec6e5573d0a1732cb18bcfc4b1580a88/http/cves/2023/CVE-2023-46747.yaml
@@ -1764,6 +1769,7 @@ https://inquest.net/blog/2018/06/22/a-look-at-formbook-stealer
 https://insight-jp.nttsecurity.com/post/102hojk/operation-restylink-apt-campaign-targeting-japanese-companies
 https://insights.sei.cmu.edu/blog/the-dangers-of-vhd-and-vhdx-files/
 https://int0x33.medium.com/day-44-linux-capabilities-privilege-escalation-via-openssl-with-selinux-enabled-and-enforced-74d2bec02099
+https://intel.thedfirreport.com/eventReports/view/70
 https://intel.thedfirreport.com/events/view/30032
 https://intezer.com/blog/research/how-we-escaped-docker-in-azure-functions/
 https://intezer.com/wp-content/uploads/2021/09/TeamTNT-Cryptomining-Explosion.pdf
@@ -2052,6 +2058,7 @@ https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon#event-id-19-wmie
 https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon#event-id-20-wmievent-wmieventconsumer-activity-detected
 https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon#event-id-21-wmievent-wmieventconsumertofilter-activity-detected
 https://learn.microsoft.com/en-us/troubleshoot/developer/browsers/security-privacy/ie-security-zones-registry-entries
+https://learn.microsoft.com/en-us/troubleshoot/windows-client/installing-updates-features-roles/system-registry-no-backed-up-regback-folder
 https://learn.microsoft.com/en-us/troubleshoot/windows-client/setup-upgrade-and-drivers/network-provider-settings-removed-in-place-upgrade
 https://learn.microsoft.com/en-us/troubleshoot/windows-server/networking/netsh-advfirewall-firewall-control-firewall-behavior
 https://learn.microsoft.com/en-us/troubleshoot/windows-server/networking/overview-server-message-block-signing
@@ -2145,6 +2152,7 @@ https://learn.microsoft.com/en-us/windows/win32/secauthz/sid-strings
 https://learn.microsoft.com/en-us/windows/win32/shell/app-registration
 https://learn.microsoft.com/en-us/windows/win32/shell/csidl
 https://learn.microsoft.com/en-us/windows/win32/shell/launch
+https://learn.microsoft.com/en-us/windows/win32/shell/shell-and-managed-code
 https://learn.microsoft.com/en-us/windows/win32/taskschd/daily-trigger-example--xml-
 https://learn.microsoft.com/en-us/windows/win32/wer/collecting-user-mode-dumps
 https://learn.microsoft.com/en-us/windows/win32/winrm/windows-remote-management-architecture
@@ -3341,6 +3349,7 @@ https://unicode-explorer.com/c/202E
 https://unit42.paloaltonetworks.com/actors-still-exploiting-sharepoint-vulnerability/
 https://unit42.paloaltonetworks.com/bluesky-ransomware/
 https://unit42.paloaltonetworks.com/bumblebee-webshell-xhunt-campaign/
+https://unit42.paloaltonetworks.com/chromeloader-malware/
 https://unit42.paloaltonetworks.com/cloaked-ursa-phishing/
 https://unit42.paloaltonetworks.com/compromised-cloud-compute-credentials/
 https://unit42.paloaltonetworks.com/emissary-panda-attacks-middle-east-government-sharepoint-servers/
@@ -3436,6 +3445,7 @@ https://web.archive.org/web/20230329172447/https://blog.menasec.net/2019/02/thre
 https://web.archive.org/web/20230409194125/https://blog.menasec.net/2019/03/threat-hunting-25-scheduled-tasks-for.html
 https://web.archive.org/web/20230420013146/http://security-research.dyndns.org/pub/slides/FIRST2017/FIRST-2017_Tom-Ueltschi_Sysmon_FINAL_notes.pdf
 https://web.archive.org/web/20230726144748/https://blog.thickmints.dev/mintsights/detecting-rogue-rdp/
+https://web.archive.org/web/20230929023836/http://powershellhelp.space/commands/set-netfirewallrule-psv5.php
 https://web.archive.org/web/20231210115125/http://www.xuetr.com/
 https://web.archive.org/web/20231221193106/https://www.swascan.com/cactus-ransomware-malware-analysis/
 https://web.archive.org/web/20231230220738/https://www.lunasec.io/docs/blog/log4j-zero-day/
@@ -3694,6 +3704,7 @@ https://www.huntress.com/blog/a-catastrophe-for-control-understanding-the-screen
 https://www.huntress.com/blog/attacking-mssql-servers
 https://www.huntress.com/blog/confluence-to-cerber-exploitation-of-cve-2023-22518-for-ransomware-deployment
 https://www.huntress.com/blog/critical-vulnerabilities-in-papercut-print-management-software
+https://www.huntress.com/blog/gootloader-threat-detection-woff2-obfuscation
 https://www.huntress.com/blog/moveit-transfer-critical-vulnerability-rapid-response
 https://www.huntress.com/blog/slashandgrab-screen-connect-post-exploitation-in-the-wild-cve-2024-1709-cve-2024-1708
 https://www.huntress.com/blog/the-unwanted-guest
@@ -3960,6 +3971,7 @@ https://www.securonix.com/blog/detecting-microsoft-msdt-dogwalk/
 https://www.securonix.com/blog/seolurker-attack-campaign-uses-seo-poisoning-fake-google-ads-to-install-malware/
 https://www.sekoia.io/en/hunting-and-detecting-cobalt-strike/
 https://www.sentinelone.com/blog/detecting-dsrm-account-misconfigurations/
+https://www.sentinelone.com/blog/exploiting-repos-6-ways-threat-actors-abuse-github-other-devops-platforms
 https://www.sentinelone.com/blog/how-offensive-actors-use-applescript-for-attacking-macos/
 https://www.sentinelone.com/blog/living-off-windows-defender-lockbit-ransomware-sideloads-cobalt-strike-through-microsoft-security-tool
 https://www.sentinelone.com/blog/living-off-windows-defender-lockbit-ransomware-sideloads-cobalt-strike-through-microsoft-security-tool/
@@ -4102,6 +4114,7 @@ https://www.virustotal.com/gui/file/05a2adb266ec6c0ba9ed176d87d8530e71e845348c13
 https://www.virustotal.com/gui/file/0e2854753d17b1bb534de8e765d5813c9fb584a745978b3d92bc6ca78e3e7735/relations
 https://www.virustotal.com/gui/file/13828b390d5f58b002e808c2c4f02fdd920e236cc8015480fa33b6c1a9300e31
 https://www.virustotal.com/gui/file/13ae8bfbc02254b389ab052aba5e1ba169b16a399d9bc4cb7414c4a73cd7dc78/detection
+https://www.virustotal.com/gui/file/14d886517fff2cc8955844b252c985ab59f2f95b2849002778f03a8f07eb8aef
 https://www.virustotal.com/gui/file/15b57c1b68cd6ce3c161042e0f3be9f32d78151fe95461eedc59a79fc222c7ed
 https://www.virustotal.com/gui/file/16bafdf741e7a13137c489f3c8db1334f171c7cb13b62617d691b0a64783cc48/behavior
 https://www.virustotal.com/gui/file/1c547a064494a35d6b5e6b459de183ab2720a22725e082bed6f6629211f7abc1/behavior
@@ -4238,6 +4251,7 @@ https://www.zscaler.com/blogs/security-research/onenote-growing-threat-malware-d
 https://www.zscaler.com/blogs/security-research/steal-it-campaign
 https://www.zscaler.com/blogs/security-research/technical-analysis-crytox-ransomware
 https://www.zscaler.com/blogs/security-research/unintentional-leak-glimpse-attack-vectors-apt37
+https://x.com/0x534c/status/1944694507787710685
 https://x.com/_st0pp3r_/status/1742203752361128162?s=20
 https://x.com/cyb3rops/status/1862406110365245506
 https://x.com/defusedcyber/status/1971492272966598683

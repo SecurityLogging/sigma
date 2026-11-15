@@ -332,6 +332,7 @@ https://citizenlab.ca/2021/07/hooking-candiru-another-mercenary-spyware-vendor-c
 https://clement.notin.org/blog/2020/09/12/CVE-2020-7315-McAfee-Agent-DLL-injection/
 https://cloud.google.com/access-context-manager/docs/audit-logging
 https://cloud.google.com/binary-authorization
+https://cloud.google.com/blog/topics/threat-intelligence/apt41-initiates-global-intrusion-campaign-using-multiple-exploits/
 https://cloud.google.com/dlp/docs/reference/rest/v2/projects.content/reidentify
 https://cloud.google.com/dns/docs/reference/v1/managedZones
 https://cloud.google.com/iam/docs/reference/rest/v1/projects.serviceAccounts
@@ -395,6 +396,7 @@ https://cydefops.com/devtunnels-unleashed
 https://cydefops.com/vscode-data-exfiltration
 https://darkdefender.medium.com/windows-10-mail-app-forensics-39025f5418d2
 https://dataconomy.com/2023/10/23/okta-data-breach/
+https://dear-territory-023.notion.site/WebDav-Share-Testing-e4950fa0c00149c3aa430d779b9b1d0f?pvs=4
 https://decoded.avast.io/janvojtesek/raspberry-robins-roshtyak-a-little-lesson-in-trickery/
 https://decoded.avast.io/martinchlumecky/png-steganography
 https://decoded.avast.io/martinchlumecky/png-steganography/
@@ -876,6 +878,7 @@ https://github.com/CheraghiMilad/bypass-Neo23x0-auditd-config/blob/f1c478a37911a
 https://github.com/CICADA8-Research/RemoteKrbRelay
 https://github.com/CICADA8-Research/RemoteKrbRelay/blob/19ec76ba7aa50c2722b23359bc4541c0a9b2611c/Exploit/RemoteKrbRelay/Relay/Attacks/RemoteRegistry.cs#L31-L40
 https://github.com/Cisco-Talos/IOCs/tree/80caca039988252fbb3f27a2e89c2f2917f582e0/2022/11
+https://github.com/clearvector/lambda-spy
 https://github.com/cloudflare/cloudflared
 https://github.com/cloudflare/cloudflared/releases
 https://github.com/codewhitesec/HandleKatz
@@ -1223,6 +1226,7 @@ https://github.com/pr0xylife/Pikabot
 https://github.com/pr0xylife/Pikabot/blob/7f7723a74ca325ec54c6e61e076acce9a4b20538/Pikabot_06.12.2023.txt
 https://github.com/pr0xylife/Pikabot/blob/7f7723a74ca325ec54c6e61e076acce9a4b20538/Pikabot_22.12.2023.txt
 https://github.com/pr0xylife/Pikabot/blob/7f7723a74ca325ec54c6e61e076acce9a4b20538/Pikabot_30.10.2023.txt
+https://github.com/pr0xylife/Pikabot/blob/fc58126127adf0f65e78f4eec59675523f48f086/Pikabot_22.12.2023.txt
 https://github.com/pr0xylife/Pikabot/blob/fc58126127adf0f65e78f4eec59675523f48f086/Pikabot_30.10.2023.txt
 https://github.com/pr0xylife/Pikabot/blob/main/Pikabot_30.10.2023.txt
 https://github.com/pr0xylife/Qakbot/
@@ -1271,6 +1275,7 @@ https://github.com/redcanaryco/atomic-red-team/blob/40b77d63808dd4f4eafb83949805
 https://github.com/redcanaryco/atomic-red-team/blob/40b77d63808dd4f4eafb83949805636735a1fd15/atomics/T1562.001/T1562.001.md
 https://github.com/redcanaryco/atomic-red-team/blob/40b77d63808dd4f4eafb83949805636735a1fd15/atomics/T1562.004/T1562.004.md
 https://github.com/redcanaryco/atomic-red-team/blob/40b77d63808dd4f4eafb83949805636735a1fd15/atomics/T1564.002/T1564.002.md
+https://github.com/redcanaryco/atomic-red-team/blob/40b77d63808dd4f4eafb83949805636735a1fd15/atomics/T1564.002/T1564.002.md#atomic-test-3---create-hidden-user-in-registry
 https://github.com/redcanaryco/atomic-red-team/blob/4ae9580a1a8772db87a1b6cdb0d03e5af231e966/atomics/T1137.006/T1137.006.md
 https://github.com/redcanaryco/atomic-red-team/blob/4d6c4e8e23d465af7a2388620cfe3f8c76e16cf0/atomics/T1082/T1082.md
 https://github.com/redcanaryco/atomic-red-team/blob/5360c9d9ffa3b25f6495f7a16e267b719eba2c37/atomics/T1482/T1482.md#atomic-test-2---windows---discover-domain-trusts-with-nltest
@@ -1884,6 +1889,7 @@ https://learn.microsoft.com/en-us/defender-endpoint/attack-surface-reduction
 https://learn.microsoft.com/en-us/defender-endpoint/attack-surface-reduction-rules-reference?view=o365-worldwide#block-process-creations-originating-from-psexec-and-wmi-commands
 https://learn.microsoft.com/en-us/defender-endpoint/configure-process-opened-file-exclusions-microsoft-defender-antivirus
 https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus
+https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide
 https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide#event-id-5001
 https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide#event-id-5010
 https://learn.microsoft.com/en-us/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide#event-id-5012
@@ -2324,6 +2330,7 @@ https://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20presentations/Asaf%20Gi
 https://media.defense.gov/2020/Jun/09/2002313081/-1/-1/0/CSI-DETECT-AND-PREVENT-WEB-SHELL-MALWARE-20200422.PDF
 https://media.defense.gov/2021/Jul/19/2002805003/-1/-1/1/CSA_CHINESE_STATE-SPONSORED_CYBER_TTPS.PDF
 https://media.defense.gov/2023/May/09/2003218554/-1/-1/0/JOINT_CSA_HUNTING_RU_INTEL_SNAKE_MALWARE_20230509.PDF
+https://media.githubusercontent.com/media/splunk/attack_data/master/datasets/attack_techniques/T1110.001/aws_login_failure/aws_cloudtrail_events.json
 https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07180244/Lazarus_Under_The_Hood_PDF_final.pdf
 https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2022/06/23093553/Common-TTPs-of-the-modern-ransomware_low-res.pdf
 https://medium.com/@7a616368/can-you-track-processes-accessing-the-camera-and-microphone-7e6885b37072
@@ -2596,6 +2603,7 @@ https://redmimicry.com
 https://redmimicry.com/posts/redmimicry-winnti/
 https://redmimicry.com/posts/redmimicry-winnti/#dropper
 https://regex101.com/r/RugQYK/1
+https://reliaquest.com/blog/threat-spotlight-cve-2025-54309-crushftp-exploit/
 https://renenyffenegger.ch/notes/Windows/registry/tree/HKEY_CURRENT_USER/Keyboard-Layout/Preload/index
 https://reqrypt.org/windivert-doc.html
 https://res.armor.com/resources/threat-intelligence/astaroth-banking-trojan/
@@ -2797,6 +2805,7 @@ https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_win
 https://svch0st.medium.com/guide-to-named-pipes-and-hunting-for-cobalt-strike-pipes-dc46b2c5f575
 https://svch0st.medium.com/stats-from-hunting-cobalt-strike-beacons-c17e56255f9b
 https://swarm.ptsecurity.com/unauth-rce-vmware
+https://syedhasan010.medium.com/forensics-analysis-of-an-lnk-file-da68a98b8415
 https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/blackbyte-exbyte-ransomware
 https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/bluebottle-banks-targeted-africa
 https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/bumblebee-loader-cybercrime
@@ -3667,6 +3676,7 @@ https://www.fortinet.com/blog/threat-research/ursnif-variant-spreading-word-docu
 https://www.fortinet.com/content/dam/fortinet/assets/analyst-reports/ar-qakbot.pdf
 https://www.fortypoundhead.com/showcontent.asp?artid=24022
 https://www.fox-it.com/en/news/whitepapers/operation-wocao-shining-a-light-on-one-of-chinas-hidden-hacking-groups/
+https://www.getsafety.com/blog-posts/shai-hulud-npm-attack
 https://www.giac.org/paper/gcih/266/review-ftp-protocol-cyber-defense-initiative/102802
 https://www.glitch-cat.com/p/green-lambert-and-attack
 https://www.gnu.org/software/wget/manual/wget.html
